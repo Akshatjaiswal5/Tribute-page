@@ -1,0 +1,48 @@
+#main{
+ display: flex;
+ flex-direction: row;
+ background: url(/map.jpg);
+ text-align: center;
+ align-content: center;
+ justify-content: center;
+ align-items: center;
+}
+#title{
+ font-family: monospace;
+ font-size: 3em;
+}
+#main-body{
+ text-align: center;
+ align-content: center;
+ justify-content: center;
+ align-items: center;
+ max-width: 50%;
+ min-width: 700px;
+ height: auto;
+ background-color: wheat;
+ opacity: 95%;
+ padding: 20px;
+
+}
+#image-div{
+ text-align: center;
+ align-content: center;
+ justify-content: center;
+ align-items: center;
+}
+#image{
+ max-width: 35%;
+ height: auto;
+}
+#tribute-info{
+ font-family: monospace;
+ font-size: 1.5em;
+}
+#tribute-info-box{
+ display: flex;
+ text-align: justify;
+ flex-direction: column;
+ align-content: center;
+ justify-content: center;
+ align-items: center;
+}
