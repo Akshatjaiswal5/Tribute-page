@@ -1,6 +1,32 @@
 {
   "base_sha": "1d3e3939038d12227dca69745a6af4f2c78609e2",
-  "pending": null,
+  "pending": {
+    "channel": "D06V8R4AL1Z",
+    "operation_label": "rebase-03da9b37",
+    "pre_action_prs": [
+      {
+        "added_by": "U06V8UPCG1Y",
+        "added_by_name": "akshatjaiswal521",
+        "number": 1,
+        "sha_after": "21e7c58c018d7a9767ae0afc5950110d58a16af5",
+        "title": "Add greeting to README"
+      },
+      {
+        "added_by": "U06V8UPCG1Y",
+        "added_by_name": "akshatjaiswal521",
+        "number": 2,
+        "sha_after": "2f8e7b75c64233bfd3a0a8b5e9bac738264d0a82",
+        "title": "Update index.html"
+      }
+    ],
+    "pre_action_sha": "2f8e7b75c64233bfd3a0a8b5e9bac738264d0a82",
+    "rebase_base_sha": "03da9b378d40b4c430f68ebeb3184da1983a6a92",
+    "resolution_branch": "devbot/resolve-rebase-03da9b37",
+    "resolution_pr": 5,
+    "triggered_by": "akshatjaiswal521",
+    "triggered_by_id": "U06V8UPCG1Y",
+    "type": "rebase"
+  },
   "prs": [
     {
       "added_by": "U06V8UPCG1Y",
