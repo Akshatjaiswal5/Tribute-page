@@ -1,6 +1,24 @@
 {
   "base_sha": "1d3e3939038d12227dca69745a6af4f2c78609e2",
-  "pending": null,
+  "pending": {
+    "channel": "D06V8R4AL1Z",
+    "pr_number": 2,
+    "pre_action_prs": [
+      {
+        "added_by": "U06V8UPCG1Y",
+        "added_by_name": "akshatjaiswal521",
+        "number": 1,
+        "sha_after": "21e7c58c018d7a9767ae0afc5950110d58a16af5",
+        "title": "Add greeting to README"
+      }
+    ],
+    "pre_action_sha": "21e7c58c018d7a9767ae0afc5950110d58a16af5",
+    "resolution_branch": "devbot/resolve-add-2",
+    "resolution_pr": 4,
+    "triggered_by": "akshatjaiswal521",
+    "triggered_by_id": "U06V8UPCG1Y",
+    "type": "add"
+  },
   "prs": [
     {
       "added_by": "U06V8UPCG1Y",
