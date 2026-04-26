@@ -33,16 +33,16 @@
       "added_by": "U06V8UPCG1Y",
       "added_by_name": "akshatjaiswal521",
       "number": 1,
-      "sha_after": "21e7c58c018d7a9767ae0afc5950110d58a16af5",
+      "sha_after": "a0109ba5e34be55b229890388411226a7013b24e",
       "title": "Add greeting to README"
     },
     {
       "added_by": "U06V8UPCG1Y",
       "added_by_name": "akshatjaiswal521",
       "number": 2,
-      "sha_after": "2f8e7b75c64233bfd3a0a8b5e9bac738264d0a82",
+      "sha_after": "a0109ba5e34be55b229890388411226a7013b24e",
       "title": "Update index.html"
     }
   ],
-  "snapshots_valid": true
+  "snapshots_valid": false
 }
